@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <round name="General Science">
+        <question>
+            <text>What is the chemical symbol for water?</text>
+            <option>H2O</option>
+            <option>CO2</option>
+            <option>O2</option>
+            <option>H2</option>
+            <answer>H2O</answer>
+        </question>
+        <question>
+            <text>What planet is known as the Red Planet?</text>
+            <option>Earth</option>
+            <option>Mars</option>
+            <option>Venus</option>
+            <option>Jupiter</option>
+            <answer>Mars</answer>
+        </question>
+        <question>
+            <text>What is the powerhouse of the cell?</text>
+            <option>Nucleus</option>
+            <option>Ribosome</option>
+            <option>Mitochondria</option>
+            <option>Golgi apparatus</option>
+            <answer>Mitochondria</answer>
+        </question>
+        <question>
+            <text>Which gas is essential for human respiration?</text>
+            <option>Carbon Dioxide</option>
+            <option>Oxygen</option>
+            <option>Nitrogen</option>
+            <option>Hydrogen</option>
+            <answer>Oxygen</answer>
+        </question>
+        <question>
+            <text>Which metal is liquid at room temperature?</text>
+            <option>Gold</option>
+            <option>Mercury</option>
+            <option>Iron</option>
+            <option>Silver</option>
+            <answer>Mercury</answer>
+        </question>
+        <question>
+            <text>What is the speed of light in vacuum?</text>
+            <option>300,000 km/s</option>
+            <option>150,000 km/s</option>
+            <option>1,000 km/s</option>
+            <option>500,000 km/s</option>
+            <answer>300,000 km/s</answer>
+        </question>
+        <question>
+            <text>Which part of the plant conducts photosynthesis?</text>
+            <option>Roots</option>
+            <option>Stem</option>
+            <option>Leaves</option>
+            <option>Flowers</option>
+            <answer>Leaves</answer>
+        </question>
+        <question>
+            <text>Which vitamin is produced in the human body when exposed to sunlight?</text>
+            <option>Vitamin A</option>
+            <option>Vitamin C</option>
+            <option>Vitamin D</option>
+            <option>Vitamin K</option>
+            <answer>Vitamin D</answer>
+        </question>
+        <question>
+        <text>Which force keeps the planets in orbit around the Sun?</text>
+        <option>Magnetic force</option>
+        <option>Gravity</option>
+        <option>Friction</option>
+        <option>Nuclear force</option>
+        <answer>Gravity</answer>
+    </question>
+
+    <question>
+        <text>Which scientist developed the theory of general relativity?</text>
+        <option>Isaac Newton</option>
+        <option>Albert Einstein</option>
+        <option>Galileo Galilei</option>
+        <option>Nikola Tesla</option>
+        <answer>Albert Einstein</answer>
+    </question>
+    </round>
+
+    <round name="General Knowledge">
+        <question>
+            <text>Who was the first President of India?</text>
+            <option>Dr. Rajendra Prasad</option>
+            <option>Jawaharlal Nehru</option>
+            <option>Dr. B.R. Ambedkar</option>
+            <option>Subhas Chandra Bose</option>
+            <answer>Dr. Rajendra Prasad</answer>
+        </question>
+        <question>
+            <text>Which is the longest river in the world?</text>
+            <option>Amazon River</option>
+            <option>Nile River</option>
+            <option>Ganges River</option>
+            <option>Yangtze River</option>
+            <answer>Nile River</answer>
+        </question>
+        <question>
+            <text>What is the capital of Japan?</text>
+            <option>Beijing</option>
+            <option>Seoul</option>
+            <option>Tokyo</option>
+            <option>Bangkok</option>
+            <answer>Tokyo</answer>
+        </question>
+        <question>
+            <text>Who is known as the "Missile Man of India"?</text>
+            <option>APJ Abdul Kalam</option>
+            <option>Vikram Sarabhai</option>
+            <option>Homi Bhabha</option>
+            <option>C.V. Raman</option>
+            <answer>APJ Abdul Kalam</answer>
+        </question>
+        <question>
+            <text>Which country is famous for the Great Wall?</text>
+            <option>India</option>
+            <option>China</option>
+            <option>Russia</option>
+            <option>USA</option>
+            <answer>China</answer>
+        </question>
+    </round>
+
+    <round name="Logo Identification">
+        <question>
+            <text>Which brand does this logo belong to?</text>
+             <image src="images/AP.jpeg" />
+            <option>Apple</option>
+            <option>Samsung</option>
+            <option>Microsoft</option>
+            <option>Dell</option>
+            <answer>Apple</answer>
+        </question>
+        <question>
+            <text>Which company has this logo?</text>
+            <image src="images/NI.jpeg" />
+            <option>Nike</option>
+            <option>Adidas</option>
+            <option>Puma</option>
+            <option>Reebok</option>
+            <answer>Nike</answer>
+        </question>
+        <question>
+            <text>Which brand is represented by this logo?</text>
+            <image src="images/MC.jpeg" />
+            <option>McDonald's</option>
+            <option>Burger King</option>
+            <option>KFC</option>
+            <option>Subway</option>
+            <answer>McDonald's</answer>
+        </question>
+        <question>
+            <text>This logo belongs to which automobile company?</text>
+           <image src="images/TE.jpeg" />
+            <option>Tesla</option>
+            <option>Toyota</option>
+            <option>Ford</option>
+            <option>Honda</option>
+            <answer>Tesla</answer>
+        </question>
+        <question>
+            <text>Which social media platform uses this logo?</text>
+            <image src="images/TW.jpeg" />
+            <option>Twitter</option>
+            <option>Facebook</option>
+            <option>Instagram</option>
+            <option>LinkedIn</option>
+            <answer>Twitter</answer>
+        </question>
+    </round>
+</quiz>

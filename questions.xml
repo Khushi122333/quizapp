@@ -130,7 +130,7 @@
     <round name="Logo Identification">
         <question>
             <text>Which brand does this logo belong to?</text>
-             <image src="images/AP.jpeg" />
+             <image src="AP.jpeg" />
             <option>Apple</option>
             <option>Samsung</option>
             <option>Microsoft</option>
@@ -139,7 +139,7 @@
         </question>
         <question>
             <text>Which company has this logo?</text>
-            <image src="images/NI.jpeg" />
+            <image src="NI.jpeg" />
             <option>Nike</option>
             <option>Adidas</option>
             <option>Puma</option>
@@ -148,7 +148,7 @@
         </question>
         <question>
             <text>Which brand is represented by this logo?</text>
-            <image src="images/MC.jpeg" />
+            <image src="MC.jpeg" />
             <option>McDonald's</option>
             <option>Burger King</option>
             <option>KFC</option>
@@ -157,7 +157,7 @@
         </question>
         <question>
             <text>This logo belongs to which automobile company?</text>
-           <image src="images/TE.jpeg" />
+           <image src="TE.jpeg" />
             <option>Tesla</option>
             <option>Toyota</option>
             <option>Ford</option>
@@ -166,7 +166,7 @@
         </question>
         <question>
             <text>Which social media platform uses this logo?</text>
-            <image src="images/TW.jpeg" />
+            <image src="TW.jpeg" />
             <option>Twitter</option>
             <option>Facebook</option>
             <option>Instagram</option>
